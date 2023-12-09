@@ -1,5 +1,5 @@
 # GitHub Spectator
-Welcome to GitHub Insight! This little tool lets you peek into GitHub profiles without any fuss. Here's how it rolls:
+Welcome to GitHub Spectator! This little tool lets you peek into GitHub profiles without any fuss. Here's how it rolls:
 
 ### 1. Visit the Website:
 - Go to [GitHub Spectator](https://shk-ubd.github.io/github-spectator/) on your browser.
