@@ -1,4 +1,4 @@
-# GitHub Insight
+# GitHub Spectator
 Welcome to GitHub Insight! This little tool lets you peek into GitHub profiles without any fuss. Here's how it rolls:
 
 ### 1. Visit the Website:
